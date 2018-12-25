@@ -12,6 +12,7 @@ http://www.wangeditor.com/
 https://www.zybuluo.com/mdeditor
 
 
+IDE工具：
 Pycharm2017激活教程
- 发表于 2017-03-02 |  分类于 Python
+分类于 Python
 点击help→Register→License sever ,输入http://idea.liyang.io
