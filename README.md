@@ -7,11 +7,4 @@ python学习记录
   
   
 
-
-------
-
-------
-
-  ------
-### [Markdown在线编辑器](https://www.zybuluo.com/mdeditor)
-------
+ [编辑器](https://www.zybuluo.com/cmd/)
