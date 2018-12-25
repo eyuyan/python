@@ -6,6 +6,8 @@ python学习记录
   深度商店安装
   
   
+  
+  
+  ------
+### [Markdown在线编辑器](https://www.zybuluo.com/mdeditor)
 ------
-### [Windows/Mac/Linux 全平台客户端](https://www.zybuluo.com/cmd/)
-https://www.zybuluo.com/mdeditor
